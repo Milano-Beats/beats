@@ -46,7 +46,8 @@ body {
 }
 .fo{
     color: yellow;
-   
+    margin-bottom: 0px;
+    font-size: 20px;
 }
 .sn:hover{
     transform:scale(1.05);
