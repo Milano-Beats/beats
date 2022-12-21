@@ -44,6 +44,10 @@ body {
     transition: all ease-out 2s;
     cursor: pointer;
 }
+.fo{
+    color: yellow;
+   
+}
 .sn:hover{
     transform:scale(1.05);
 } @media screen and (max-width: 930px){
