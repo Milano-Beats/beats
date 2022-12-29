@@ -45,6 +45,13 @@ body {
     transition: all ease-out 2s;
     cursor: pointer;
 }
+.all{
+    text-align: center;
+    color: yellow;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    cursor: pointer;
+}
 .fo{
     color: yellow;
     margin-bottom: 0px;
