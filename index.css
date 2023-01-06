@@ -27,6 +27,12 @@ body {
     text-shadow: black 3px 3px 3px;
     
 }
+.new{
+    background-color: red;
+    border-radius: 10px;
+    color: yellow;
+    overflow: auto;
+}
 .bf{
     color: whitesmoke;
     text-align: center;
@@ -64,6 +70,9 @@ body {
 .sn:hover{
     transform:scale(1.05);
 } @media screen and (max-width: 930px){
+    body {
+        background:linear-gradient(to bottom, black,rgb(27, 27, 27)); 
+    }
     .a {
         text-align: center;
         background-color: red;
