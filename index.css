@@ -14,12 +14,18 @@ body {
     border-radius: 5px 5px 5px 5px;
     transition: all .3s ease-out;
     user-select: none;
-    margin-left: 30px;
-    margin-right: 30px;
     font-size: 40px;
     -webkit-text-align: center;
     -ms-text-align: center;
-
+    margin:30px 0;
+    list-style-type:none;
+    overflow: hidden;
+    background-color:#333333;
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;
+    width: 96%;
+    display: block;
 }
 .a:hover{
     cursor: pointer;
